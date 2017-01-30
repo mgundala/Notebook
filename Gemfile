@@ -23,7 +23,8 @@ gem 'haml', '~> 4.0', '>= 4.0.7'
 gem 'simple_form', '~> 3.4'
 #Devise gem for authentication
 gem 'devise', '~> 4.2'
-gem 'bcrypt', platforms: [:ruby]
+gem 'bcrypt-ruby', '3.0.0'
+gem 'bcrypt', '~> 3.0'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development

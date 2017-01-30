@@ -3,7 +3,7 @@
 #banner {
   background: url(welcome_banner_image.jpg);
   width: 100%;
-  min-height: 500px;
+  min-height: 700px;
   display: table;
   .banner_content {
     display: table-cell;
@@ -51,7 +51,7 @@
   }
   .callout {
     text-align: center;
-    width: 33.3333%;
+    width: 50.00%;
     padding: 1.5rem 2.5%;
     float: left;
     h2 {
@@ -75,7 +75,7 @@
     margin: 0;
   }
   p {
-    font-size: 1.25rem;
+    font-size: 1.05rem;
     margin: 0 0 2.5rem 0;
     color: #a7a8a8;
   }
